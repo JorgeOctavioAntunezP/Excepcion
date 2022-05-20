@@ -1,0 +1,7 @@
+C:\Users\Jorge\Desktop\Excepcion Program\Program_2\bin\Debug\Program_2.exe.config
+C:\Users\Jorge\Desktop\Excepcion Program\Program_2\bin\Debug\Program_2.exe
+C:\Users\Jorge\Desktop\Excepcion Program\Program_2\bin\Debug\Program_2.pdb
+C:\Users\Jorge\Desktop\Excepcion Program\Program_2\obj\Debug\Program_2.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Excepcion Program\Program_2\obj\Debug\Program_2.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Excepcion Program\Program_2\obj\Debug\Program_2.exe
+C:\Users\Jorge\Desktop\Excepcion Program\Program_2\obj\Debug\Program_2.pdb
