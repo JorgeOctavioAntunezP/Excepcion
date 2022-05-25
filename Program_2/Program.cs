@@ -10,6 +10,8 @@ namespace Program_2
     {
         static void Main(string[] args)
         {
+            // Alumno: Jorge Octavio Antunez Paritda - 21211910
+
             try
             {
                 Console.Write("Ingresa un numero: ");
@@ -28,6 +30,14 @@ namespace Program_2
             {
                 Console.WriteLine("\n" + e.Message);
             }
+            finally
+            {
+                Console.WriteLine("Codigo finally ejecutado.");
+            }
+
+            // Cerrar Programa
+            Console.Write("Preciona ENTER para salir. . .");
+            Console.ReadKey();
         }
     }
 }
